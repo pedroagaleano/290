@@ -1,0 +1,10 @@
+.cache/
+.dotnet/
+.ssh/
+.git/
+.vscode-server
+.bash_history
+.bash_logout
+.bashrc
+.wget-hsts
+.Dockerfile

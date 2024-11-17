@@ -1,0 +1,1 @@
+alert("vista de Registrar")
